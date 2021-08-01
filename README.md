@@ -12,6 +12,9 @@
     . PYTHON
     . TEZ
     . HADOOP
+    . YARN
+    . GIT BASH
+    
 ## PROBLEM STATEMENTS-
 ### QUESTION 1.
     Which English wikipedia article got the most traffic on January 20, 2021?
@@ -26,4 +29,7 @@
 
       
 ##  REFERENCE
-      https://dumps.wikimedia.org/other/pageviews/2021/2021-01/
+      https://dumps.wikimedia.org/other/pageviews/
+      
+      https://dumps.wikimedia.org/other/clickstream/
+      
