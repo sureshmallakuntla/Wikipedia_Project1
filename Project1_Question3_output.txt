@@ -1,0 +1,32 @@
++----------------+-------------------------------------------+--------+----------------+-----------+                                                                                       
+|     v.page     |                  c.curr                   | c.occ  | v.total_views  | fraction  |                                                                                       
++----------------+-------------------------------------------+--------+----------------+-----------+                                                                                       
+| On_the_Border  | Randy_Meisner                             | 81     | 290            | 0.2793    |                                                                                       
+| On_the_Border  | Already_Gone_(Eagles_song)                | 275    | 290            | 0.9483    |                                                                                       
+| On_the_Border  | Glyn_Johns                                | 41     | 290            | 0.1414    |                                                                                       
+| On_the_Border  | The_Smoker_You_Drink,_the_Player_You_Get  | 16     | 290            | 0.0552    |                                                                                       
+| On_the_Border  | Bernie_Leadon                             | 102    | 290            | 0.3517    |                                                                                       
+| On_the_Border  | Paul_Craft                                | 56     | 290            | 0.1931    |                                                                                       
+| On_the_Border  | Jack_Tempchin                             | 44     | 290            | 0.1517    |                                                                                       
+| On_the_Border  | On_the_Border_(disambiguation)            | 58     | 290            | 0.2       |                                                                                       
+| On_the_Border  | Eagles_(band)                             | 176    | 290            | 0.6069    |                                                                                       
+| On_the_Border  | Best_of_My_Love_(Eagles_song)             | 249    | 290            | 0.8586    |                                                                                       
+| On_the_Border  | Gram_Parsons                              | 121    | 290            | 0.4172    |                                                                                       
+| On_the_Border  | Don_Felder                                | 122    | 290            | 0.4207    |                                                                                       
+| On_the_Border  | Eagles_(album)                            | 16     | 290            | 0.0552    |                                                                                       
+| On_the_Border  | Hotel_California_(Eagles_album)           | 13     | 290            | 0.0448    |                                                                                       
+| On_the_Border  | Bill_Szymczyk                             | 66     | 290            | 0.2276    |                                                                                       
+| On_the_Border  | Eagles_discography                        | 24     | 290            | 0.0828    |                                                                                       
+| On_the_Border  | Jackson_Browne                            | 14     | 290            | 0.0483    |                                                                                       
+| On_the_Border  | Tom_Waits                                 | 41     | 290            | 0.1414    |                                                                                       
+| On_the_Border  | The_Flying_Burrito_Brothers               | 33     | 290            | 0.1138    |                                                                                       
+| On_the_Border  | Danny_Whitten                             | 33     | 290            | 0.1138    |                                                                                       
+| On_the_Border  | J._D._Souther                             | 36     | 290            | 0.1241    |                                                                                       
+| On_the_Border  | Al_Perkins                                | 30     | 290            | 0.1034    |                                                                                       
+| On_the_Border  | Sweetheart_of_the_Rodeo                   | 12     | 290            | 0.0414    |                                                                                       
+| On_the_Border  | Ol'_'55                                   | 109    | 290            | 0.3759    |                                                                                       
+| On_the_Border  | James_Dean_(song)                         | 186    | 290            | 0.6414    |                                                                                       
+| On_the_Border  | Glenn_Frey                                | 47     | 290            | 0.1621    |                                                                                       
+| On_the_Border  | Don_Henley                                | 38     | 290            | 0.131     |                                                                                       
++----------------+-------------------------------------------+--------+----------------+-----------+                                                                                       
+27 rows selected (52.52 seconds)                                      

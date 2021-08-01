@@ -1,0 +1,25 @@
++------------------------------------+-----------------------------+-----------------------------+                                                                                         
+|          am_gm_views.page          | am_gm_views.total_views_am  | am_gm_views.total_views_gm  |                                                                                         
++------------------------------------+-----------------------------+-----------------------------+                                                                                         
+| Godzilla_vs._Kong                  | 158995                      | 1994                        |                                                                                         
+| April_Fools'_Day                   | 129326                      | 3                           |                                                                                         
+| Matt_Gaetz                         | 76953                       | 635                         |                                                                                         
+| YouTube                            | 39190                       | 1478                        |                                                                                         
+| Microsoft_Office                   | 32762                       | 281                         |                                                                                         
+| Bitcoin_Cash                       | 29037                       | 105                         |                                                                                         
+| Lil_Nas_X                          | 27753                       | 903                         |                                                                                         
+| Chipotle_Mexican_Grill             | 27321                       | 19                          |                                                                                         
+| Easter                             | 25080                       | 104                         |                                                                                         
+| The_Pirate_Bay                     | 24772                       | 545                         |                                                                                         
+| Derek_Chauvin                      | 24426                       | 59                          |                                                                                         
+| Zack_Snyder's_Justice_League       | 24320                       | 11                          |                                                                                         
+| Gmail                              | 23188                       | 490                         |                                                                                         
+| United_States                      | 22239                       | 6                           |                                                                                         
+| Cat                                | 22063                       | 3                           |                                                                                         
+| Ever_Given                         | 20967                       | 7350                        |                                                                                         
+| George_Floyd                       | 20405                       | 106                         |                                                                                         
+| The_Falcon_and_the_Winter_Soldier  | 18707                       | 775                         |                                                                                         
+| Kong:_Skull_Island                 | 16865                       | 221                         |                                                                                         
+| G._Gordon_Liddy                    | 16718                       | 2                           |                                                                                         
++------------------------------------+-----------------------------+-----------------------------+                                                                                         
+20 rows selected (12.616 seconds)      

@@ -1,0 +1,25 @@
++-----------------------------------------+----------------------+----------------+-----------+                                                                                            
+|                 c.prev                  | c.daily_clickstream  | v.total_views  | fraction  |                                                                                            
++-----------------------------------------+----------------------+----------------+-----------+                                                                                            
+| Prince_Philip,_Duke_of_Edinburgh        | 213570.0             | 35609          | 5.9976    |                                                                                            
+| Elizabeth_II                            | 190448.0             | 64584          | 2.9488    |                                                                                            
+| Mortal_Kombat_(2021_film)               | 131997.0             | 17601          | 7.4994    |                                                                                            
+| Godzilla_vs._Kong                       | 79092.0              | 689836         | 0.1147    |                                                                                            
+| Charles,_Prince_of_Wales                | 77712.0              | 28184          | 2.7573    |                                                                                            
+| 93rd_Academy_Awards                     | 76989.0              | 19595          | 3.929     |                                                                                            
+| The_Falcon_and_the_Winter_Soldier       | 73226.0              | 51662          | 1.4174    |                                                                                            
+| Deaths_in_2021                          | 70510.0              | 124711         | 0.5654    |                                                                                            
+| George_VI                               | 66451.0              | 28641          | 2.3201    |                                                                                            
+| DMX_(rapper)                            | 64732.0              | 2681           | 24.1447   |                                                                                            
+| Queen_Victoria                          | 46905.0              | 27366          | 1.714     |                                                                                            
+| George_V                                | 45560.0              | 16690          | 2.7298    |                                                                                            
+| WrestleMania_37                         | 44792.0              | 48155          | 0.9302    |                                                                                            
+| Princess_Margaret,_Countess_of_Snowdon  | 43952.0              | 37797          | 1.1628    |                                                                                            
+| Anne,_Princess_Royal                    | 43090.0              | 20251          | 2.1278    |                                                                                            
+| Diana,_Princess_of_Wales                | 40939.0              | 27329          | 1.498     |                                                                                            
+| Helen_McCrory                           | 40187.0              | 2586           | 15.5402   |                                                                                            
+| Shadow_and_Bone_(TV_series)             | 39199.0              | 7455           | 5.2581    |                                                                                            
+| The_Serpent_(TV_series)                 | 38320.0              | 5656           | 6.7751    |                                                                                            
+| Edward_VIII                             | 38166.0              | 21665          | 1.7616    |                                                                                            
++-----------------------------------------+----------------------+----------------+-----------+                                                                                            
+20 rows selected (24.945 seconds)
