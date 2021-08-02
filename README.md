@@ -29,7 +29,7 @@
 
       
 ##  REFERENCE
-      https://dumps.wikimedia.org/other/pageviews/
+https://dumps.wikimedia.org/other/pageviews/
       
-      https://dumps.wikimedia.org/other/clickstream/
+https://dumps.wikimedia.org/other/clickstream/
       
